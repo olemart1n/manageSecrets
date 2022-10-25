@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/olemart1n/manageSecrets/issues"
   },
-  "homepage": "https://github.com/olemart1n/manageSecrets#readme"
+  "homepage": "https://github.com/olemart1n/manageSecrets#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
