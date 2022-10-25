@@ -1,0 +1,22 @@
+{
+  "name": "managesecrets",
+  "version": "1.0.0",
+  "description": "learning to hide secrets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olemart1n/manageSecrets.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "ole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olemart1n/manageSecrets/issues"
+  },
+  "homepage": "https://github.com/olemart1n/manageSecrets#readme"
+}
